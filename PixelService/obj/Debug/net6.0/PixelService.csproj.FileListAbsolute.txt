@@ -1,0 +1,62 @@
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.AssemblyInfo.cs
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.exe
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.deps.json
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.runtimeconfig.json
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.dll
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.pdb
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\PixelStorageService\PixelService\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.PixelService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.build.PixelService.props
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PixelService.props
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PixelService.props
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\scopedcss\bundle\PixelService.styles.css
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.csproj.CopyComplete
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.dll
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\refint\PixelService.dll
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.pdb
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.genruntimeconfig.cache
+C:\Users\HP\source\repos\PixelStorageService\PixelService\obj\Debug\net6.0\ref\PixelService.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.exe
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.deps.json
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.runtimeconfig.json
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\PixelService.pdb
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.AssemblyInfo.cs
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.PixelService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.build.PixelService.props
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PixelService.props
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PixelService.props
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\scopedcss\bundle\PixelService.styles.css
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.csproj.CopyComplete
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\refint\PixelService.dll
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.pdb
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\PixelService.genruntimeconfig.cache
+C:\Users\user\Documents\Sameer Notes\Test\PixelStorageService\PixelStorageService\PixelService\obj\Debug\net6.0\ref\PixelService.dll
